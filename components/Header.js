@@ -15,7 +15,7 @@ const Header = () => {
 
         {/* عنوان Search Divar (سمت راست) */}
         <h1 className="text-2xl md:text-3xl font-bold bg-gradient-to-r from-cyan-400 via-blue-400 to-pink-400 bg-clip-text text-transparent drop-shadow-[0_0_10px_rgba(0,200,255,0.7)]">
-          Search Divar
+          Bazaryab
         </h1>
       </div>
     </header>
